@@ -59,7 +59,7 @@ def send_message():
     <head>
         <style>
         body {
-        background-image: url('https://picjj.com/images/2024/05/11/NTpf2.jpg');
+        background-image: url('https://picjj.com/images/2024/05/11/NTfMo.jpg');
         background-size: cover;
     }
     body {
